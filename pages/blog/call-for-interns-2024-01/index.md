@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Call for Interns 2024-01"
 slug: call-for-interns-2024-01
@@ -222,3 +223,5 @@ Below is the list of projects participating in the current internship cycle. Eac
 - **Udacity CS212 - Design of Computer Programs:** This course, taught by Peter Norvig, delves into advanced programming topics and is an excellent way to deepen your understanding of computer programs. Enroll in the course at Udacity CS212.
 - **The GRAPH Network Courses:** Explore a range of courses offered by The GRAPH Network, tailored to various aspects of data analysis. Find the courses at The GRAPH Network Courses.
 These resources provide a great opportunity to prepare effectively for the Internship Program and to develop a broad skill set in software development and data analysis.
+=======
+>>>>>>> faa36ec (Fix: Color of the table tittle)
